@@ -1,7 +1,9 @@
 # Personal_Budget
 A user-friendly Google Sheets tool that helps individuals track their income, expenses, savings, and taxes.
 
-## [Budget Calculator Dashboard](https://docs.google.com/spreadsheets/d/1x4HkfUeI-bJyUBRPpdX0lDyTu6cxH12aiaAK6-ffbEM/edit?usp=sharing)
+Create a copy and try it out for yourself!
+
+## [Budget Calculator Dashboard](https://docs.google.com/spreadsheets/d/1FtAMYj3UdYxYSYJcn3afPHnDjG8OAJMkfgP50WmLcOU/edit?usp=sharing)
 
 
 ### Project Overview
